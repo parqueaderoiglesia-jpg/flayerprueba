@@ -1,0 +1,331 @@
+{
+ "_nota": "Datos extraídos del chat 'Área de Producto' y de los flyers de noviembre 2026. Los precios no se guardan aquí. Revisar antes de usar.",
+ "destinos": [
+  {
+   "nombre": "Santa Marta",
+   "tipo": "nacional",
+   "duracion": "4 días 3 noches",
+   "iconos": [
+    "vuelos",
+    "traslados",
+    "estadia",
+    "desayuno",
+    "tour",
+    "asist"
+   ]
+  },
+  {
+   "nombre": "San Andrés",
+   "tipo": "nacional",
+   "duracion": "4 días 3 noches",
+   "iconos": [
+    "vuelos",
+    "traslados",
+    "estadia",
+    "desayuno",
+    "tour",
+    "asist"
+   ]
+  },
+  {
+   "nombre": "Cartagena",
+   "tipo": "nacional",
+   "duracion": "4 días 3 noches",
+   "iconos": [
+    "vuelos",
+    "traslados",
+    "estadia",
+    "desayuno",
+    "tour",
+    "asist"
+   ],
+   "notas": "Smart TRVELY exclusivo con Hotel Marina Suites"
+  },
+  {
+   "nombre": "Coveñas",
+   "tipo": "nacional",
+   "duracion": "4 días 3 noches",
+   "iconos": [
+    "vuelos",
+    "estadia",
+    "desayuno",
+    "tour",
+    "asist"
+   ]
+  },
+  {
+   "nombre": "Tolú",
+   "tipo": "nacional",
+   "duracion": "4 días 3 noches",
+   "iconos": [
+    "vuelos",
+    "estadia",
+    "desayuno",
+    "tour",
+    "asist"
+   ]
+  },
+  {
+   "nombre": "Montería (Tolú y Coveñas)",
+   "tipo": "nacional",
+   "duracion": "3 noches 4 días",
+   "iconos": [
+    "vuelos",
+    "estadia",
+    "desayuno",
+    "tour",
+    "asist"
+   ],
+   "notas": "Incluye Tour Archipiélago de San Bernardo con almuerzo"
+  },
+  {
+   "nombre": "Medellín",
+   "tipo": "nacional",
+   "duracion": "4 días 3 noches",
+   "iconos": [
+    "vuelos",
+    "estadia",
+    "desayuno",
+    "tour",
+    "asist"
+   ]
+  },
+  {
+   "nombre": "La Guajira",
+   "tipo": "nacional",
+   "duracion": "4 días 3 noches",
+   "iconos": [
+    "vuelos",
+    "traslados",
+    "estadia",
+    "desayuno",
+    "tour",
+    "asist"
+   ],
+   "notas": "Plan variable: validar con el líder"
+  },
+  {
+   "nombre": "Eje Cafetero (terrestre)",
+   "tipo": "nacional terrestre",
+   "duracion": "3 noches (salida desde Bogotá)",
+   "iconos": [
+    "traslados",
+    "estadia",
+    "alimentacion",
+    "tour",
+    "guia",
+    "asist"
+   ],
+   "fechas_2027": [
+    "27-31 ene",
+    "3-7 feb",
+    "10-14 feb",
+    "17-21 feb",
+    "24-28 feb"
+   ]
+  },
+  {
+   "nombre": "Tour de Luces por Boyacá",
+   "tipo": "nacional terrestre",
+   "duracion": "1 noche (salida desde Bogotá)",
+   "iconos": [
+    "traslados",
+    "alimentacion",
+    "tour",
+    "guia",
+    "asist"
+   ],
+   "fechas": "Dic: 7, 11, 12, 18, 19, 24 y 26. Ene 2027: 2",
+   "tarifa_desde": "$174.990 por persona"
+  },
+  {
+   "nombre": "Cancún",
+   "tipo": "internacional",
+   "duracion": "5 días 4 noches",
+   "iconos": [
+    "vuelos",
+    "traslados",
+    "estadia",
+    "todo",
+    "asist"
+   ]
+  },
+  {
+   "nombre": "Punta Cana",
+   "tipo": "internacional",
+   "duracion": "5 días 4 noches",
+   "iconos": [
+    "vuelos",
+    "traslados",
+    "estadia",
+    "todo",
+    "asist"
+   ]
+  },
+  {
+   "nombre": "Santo Domingo",
+   "tipo": "internacional",
+   "duracion": "4 días 3 noches",
+   "iconos": [
+    "vuelos",
+    "traslados",
+    "estadia",
+    "todo",
+    "asist"
+   ]
+  },
+  {
+   "nombre": "Aruba",
+   "tipo": "internacional",
+   "duracion": "5 días 4 noches",
+   "iconos": [
+    "vuelos",
+    "traslados",
+    "estadia",
+    "asist"
+   ],
+   "notas": "Tarifa de sostenibilidad (ED card) y Resort Fee en hotel"
+  },
+  {
+   "nombre": "Jamaica",
+   "tipo": "internacional",
+   "duracion": "5 días 4 noches",
+   "iconos": [
+    "vuelos",
+    "estadia",
+    "todo",
+    "asist"
+   ],
+   "fechas_2027": [
+    "7-11 mar",
+    "1-5 abr"
+   ]
+  },
+  {
+   "nombre": "Panamá (Playa Blanca)",
+   "tipo": "internacional",
+   "duracion": "5 días 4 noches",
+   "iconos": [
+    "vuelos",
+    "traslados",
+    "estadia",
+    "todo",
+    "asist"
+   ]
+  }
+ ],
+ "hoteles": [
+  {
+   "nombre": "Tamacá Beach Resort Hotel",
+   "destino": "Santa Marta",
+   "logo": "img/hoteles/tamaca.png"
+  },
+  {
+   "nombre": "Sansirak Hotel",
+   "destino": "Santa Marta",
+   "logo": "img/hoteles/sansirak.png"
+  },
+  {
+   "nombre": "Hotel Medellín Rodadero",
+   "destino": "Santa Marta",
+   "logo": "img/hoteles/medellin-rodadero.png"
+  },
+  {
+   "nombre": "Hotel Dubai",
+   "destino": "Cartagena",
+   "logo": "img/hoteles/dubai.png"
+  },
+  {
+   "nombre": "Hotel Cartagena Premium",
+   "destino": "Cartagena",
+   "logo": "img/hoteles/cartagena-premium.png"
+  },
+  {
+   "nombre": "Hotel Toledo",
+   "destino": "Cartagena",
+   "logo": "img/hoteles/toledo.png"
+  },
+  {
+   "nombre": "Hotel Marina Suites",
+   "destino": "Cartagena",
+   "logo": "img/hoteles/marina-suites.png",
+   "plan": "Smart TRVELY"
+  },
+  {
+   "nombre": "Marbelo Hotel Coveñas",
+   "destino": "Coveñas",
+   "logo": "img/hoteles/marbelo.png"
+  },
+  {
+   "nombre": "Porto Alegre Hotel Coveñas",
+   "destino": "Coveñas",
+   "logo": "img/hoteles/porto-alegre.png"
+  },
+  {
+   "nombre": "Poblado Hotel",
+   "destino": "Coveñas",
+   "logo": "img/hoteles/poblado.png",
+   "verificar": "destino asumido por el flyer"
+  },
+  {
+   "nombre": "Playa Divina Coveñas",
+   "destino": "Coveñas",
+   "logo": "img/hoteles/playa-divina.png"
+  },
+  {
+   "nombre": "LOA Beach Resort",
+   "destino": "Tolú",
+   "logo": "img/hoteles/loa.png"
+  },
+  {
+   "nombre": "Sauces del Estadio Hotel",
+   "destino": "Medellín",
+   "logo": "img/hoteles/sauces-del-estadio.png"
+  },
+  {
+   "nombre": "Coral Costa Caribe",
+   "destino": "Santo Domingo",
+   "logo": "img/hoteles/coral-costa-caribe.png"
+  },
+  {
+   "nombre": "Hotel Dos Playas Faranda",
+   "destino": "Cancún",
+   "logo": "img/hoteles/dos-playas-faranda.png",
+   "plan": "Todo incluido"
+  },
+  {
+   "nombre": "Hotel Coconut Inn",
+   "destino": "Aruba",
+   "logo": "img/hoteles/coconut-inn.png"
+  },
+  {
+   "nombre": "Hotel SeaGarden Beach Resort",
+   "destino": "Jamaica",
+   "logo": "img/hoteles/seagarden.png",
+   "plan": "Todo incluido"
+  },
+  {
+   "nombre": "Hotel Playa Blanca Beach Resort",
+   "destino": "Panamá (Playa Blanca)",
+   "logo": "img/hoteles/playa-blanca.png",
+   "plan": "Todo incluido"
+  },
+  {
+   "nombre": "Hotel Blue Island",
+   "destino": "POR CONFIRMAR"
+  }
+ ],
+ "no_incluye": [
+  "Gastos personales",
+  "Ningún servicio o concepto no especificado en el plan"
+ ],
+ "campanas": [
+  "Tarifa estándar",
+  "Solo por hoy",
+  "2x1",
+  "Smart TRVELY",
+  "Cierre de mes",
+  "Navidad",
+  "Pasadías"
+ ]
+}

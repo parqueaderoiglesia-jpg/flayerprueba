@@ -1,0 +1,10 @@
+{
+ "activa": "t1",
+ "campanas": [
+  {
+   "desde": "2026-12-01",
+   "hasta": "2026-12-31",
+   "plantilla": "t2"
+  }
+ ]
+}
